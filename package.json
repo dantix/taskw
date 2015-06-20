@@ -1,0 +1,15 @@
+{
+  "name": "taskw",
+  "version": "0.0.1",
+  "description": "Task warrior query library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roman Golovin <danteek@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "q": "^1.1.2",
+    "underscore": "^1.7.0"
+  }
+}
